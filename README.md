@@ -135,15 +135,6 @@ jupyter notebook Unsupervised_Learning_Iris.ipynb
 📝 Notes
 This project is ideal for learning clustering fundamentals.
 
-You can extend it with:
-
-DBSCAN
-
-Gaussian Mixture Models
-
-t‑SNE visualization
-
-Feature importance analysis
 
 📧 Contact
 If you have questions or want to collaborate, feel free to reach out or open an issue in the repository.

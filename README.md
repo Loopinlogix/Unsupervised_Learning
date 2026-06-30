@@ -122,15 +122,15 @@ Clusters align closely with actual species, especially setosa which is well‑se
 📦 How to Run
 Clone the repository:
 
-bash
+
 git clone https://github.com/<your-username>/<your-repo>.git
 Install dependencies:
 
-bash
+
 pip install -r requirements.txt
 Run the notebook:
 
-bash
+
 jupyter notebook Unsupervised_Learning_Iris.ipynb
 📝 Notes
 This project is ideal for learning clustering fundamentals.

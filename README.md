@@ -10,7 +10,7 @@ In this project, we explore the Iris dataset using:
 
 K-Means Clustering
 
-Hierarchical (Agglomerative) Clustering
+Hierarchical Clustering
 
 Elbow Method
 
